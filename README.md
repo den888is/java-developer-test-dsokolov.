@@ -1,4 +1,4 @@
-# java-developer-test-dsokolov.
+# Asteroids-test-dsokolov.
 Тестовое задание на Unity. Базовая версия игры "Asteroids".
 <p>
 Задание выполнено в полном объеме: 
